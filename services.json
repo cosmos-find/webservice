@@ -1,0 +1,9 @@
+{
+  "id": "cosmos.find.hometraining.app.service",
+  "description": "COSMOS WebRTC Service",
+  "services": [
+    {
+      "name": "cosmos.find.hometraining.app.service"
+    }
+  ]
+}
